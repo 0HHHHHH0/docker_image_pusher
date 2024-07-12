@@ -1,4 +1,4 @@
-music_tag_web:latest
+xhongc/music_tag_web:latest
 nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
